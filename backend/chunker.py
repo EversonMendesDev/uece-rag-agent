@@ -33,3 +33,4 @@ if __name__ == "__main__":
             print(questoes[0]["conteudo"][:400])
     except Exception as e:
         print(f"Erro ao processar: {e}")
+        
